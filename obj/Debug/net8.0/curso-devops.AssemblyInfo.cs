@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("curso-devops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+403f3e9a0d3b00c5de147f4bd365a830c374896e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+371913c101fd16bc5b609000e3543309a42846e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("curso-devops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("curso-devops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
